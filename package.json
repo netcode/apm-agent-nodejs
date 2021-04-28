@@ -142,7 +142,7 @@
     "once": "^1.4.0",
     "p-finally": "^1.0.0",
     "pg": "^7.5.0",
-    "redis": "^2.8.0",
+    "redis": "^3.1.2",
     "request": "^2.88.0",
     "restify": "^7.7.0",
     "restify-clients": "^2.6.2",
